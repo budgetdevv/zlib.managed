@@ -81,7 +81,7 @@
   <ItemGroup>
     <ProjectReference Include="..\GitInformation\src\GitInformation\Elskom.GitInformation.csproj" />
   </ItemGroup>
-
+    
   <Import Project="../CommonPackages.props" />
   <Import Project="../Elskom.Sdk/build/Elskom.Sdk.targets" />
 
